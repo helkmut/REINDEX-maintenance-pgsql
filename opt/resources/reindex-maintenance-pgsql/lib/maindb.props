@@ -1,0 +1,13 @@
+opt_pguser=postgres
+opt_pgport=9999
+opt_pgdb=hlg_db
+opt_fim=17
+
+# --- Additional info --- #
+
+opt_pguser - > Login role
+opt_pgport -> Instance port
+opt_pgdb -> Database connect
+opt_fim -> Time abort
+
+# --- Additional info --- #
